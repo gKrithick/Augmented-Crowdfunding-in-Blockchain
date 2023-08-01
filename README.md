@@ -7,7 +7,12 @@
 ### 🏠 [Homepage]
 
 ## Screenshots
-
+<style>
+    img{
+        display: center;
+        margin: 0 auto;
+    }
+</style>
 <img src="/img/1.png" alt="Screenshot 1" width="400"/> 
 <img src="/img/2.png" alt="Screenshot 2" width="400"/>  
 <img src="/img/3.png" alt="Screenshot 3" width="400"/> 

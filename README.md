@@ -5,20 +5,22 @@
 > Project from ["Ethereum and Solidity: The Complete Developer`s Guide"](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/), arts by [Storyset](https://storyset.com/).
 
 ### 🏠 [Homepage]
-
-## Screenshots
 <style>
-    img{
-        display: center;
-        margin: 0 auto;
+    div{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 </style>
+## Screenshots
+<div>
 <img src="/img/1.png" alt="Screenshot 1" width="400"/> 
 <img src="/img/2.png" alt="Screenshot 2" width="400"/>  
 <img src="/img/3.png" alt="Screenshot 3" width="400"/> 
 <img src="/img/4.png" alt="Screenshot 4" width="400"/> 
 <img src="/img/5.png" alt="Screenshot 5" width="400"/>
-
+</div>
 ## Install
 
 ```sh

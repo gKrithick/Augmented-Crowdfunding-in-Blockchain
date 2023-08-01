@@ -1,12 +1,4 @@
 <h1 align="center">Augmented Crowdfunding Using Blockchain</h1>
-<style>
- div{
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-</style>
 
 > ♦ Crowd funding project using Smart Contracts on the Ethereum. Created with Next.js and Tailwind CSS. This project use the Sepolia Test Network, to interact with this project you must have a Metamask account and some ethereum in the account (you can get some ethereum [here](https://sepoliafaucet.com/)).
 

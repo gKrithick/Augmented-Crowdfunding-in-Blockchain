@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-<img src="/img/1.jpg" alt="Screenshot 1" width="400"/> <img src="/img/2.jpg" alt="Screenshot 2" width="400"/>  <img src="/img/3.jpg" alt="Screenshot 3" width="400"/> <img src="/img/4.jpg" alt="Screenshot 4" width="400"/> <img src="/img/5.jpg" alt="Screenshot 5" width="400"/>
+<img src="/img/1.png" alt="Screenshot 1" width="400"/> <img src="/img/2.png" alt="Screenshot 2" width="400"/>  <img src="/img/3.png" alt="Screenshot 3" width="400"/> <img src="/img/4.png" alt="Screenshot 4" width="400"/> <img src="/img/5.png" alt="Screenshot 5" width="400"/>
 
 ## Install
 

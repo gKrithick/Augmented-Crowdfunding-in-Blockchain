@@ -7,11 +7,11 @@
 ### 🏠 [Homepage]
 ## Screenshots
 <p align="center">
-<img src="/img/1.png" alt="Screenshot 1" width="400"/> 
-<img src="/img/2.png" alt="Screenshot 2" width="400"/>  
-<img src="/img/3.png" alt="Screenshot 3" width="400"/> 
-<img src="/img/4.png" alt="Screenshot 4" width="400"/> 
-<img src="/img/5.png" alt="Screenshot 5" width="400"/>
+<img src="/img/1.png" alt="Screenshot 1" width="400"/> <br><br>
+<img src="/img/2.png" alt="Screenshot 2" width="400"/>  <br><br>
+<img src="/img/3.png" alt="Screenshot 3" width="400"/> <br><br>
+<img src="/img/4.png" alt="Screenshot 4" width="400"/> <br><br>
+<img src="/img/5.png" alt="Screenshot 5" width="400"/><br><br>
 </p>
 ## Install
 
